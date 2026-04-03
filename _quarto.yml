@@ -1,0 +1,36 @@
+project:
+  type: book
+  resources:
+    - assets/**
+  output-dir: docs
+
+book:
+  title: "Macroeconomics"
+  author: "Your Name"
+  site-url: "https://clb18.github.io/ECON_2010_Macroeconomics"
+  repo-url: "https://github.com/clb18.github.io/ECON_2010_Macroeconomics"
+  date: today
+  search: true
+
+  chapters:
+    - index.qmd          # Preface / Welcome page
+    - syllabus.qmd       # Syllabus as its own page
+    - part: "Contents"
+      chapters:
+        - Contents/Chapter01.qmd
+        # add more chapters here as you build them
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
+    number-sections: true
+    css: styles.css
+    grid:
+      sidebar-width: 275px
+      body-width: 1200px
+      margin-width: 0px
+      gutter-width: 1.5rem
+  pdf:
+    documentclass: scrreprt

@@ -1,0 +1,70 @@
+---
+title: "Welcome to Macroeconomics"
+author: "Prof. Barker"
+date: today
+---
+
+# Preface {.unnumbered}
+
+Welcome to **Macroeconomics**. This course examines how economies function at the aggregate level — exploring the forces that drive economic growth, unemployment, inflation, and the policy tools governments and central banks use to shape outcomes.
+
+This online textbook serves as your primary reference for lecture notes, examples, and worked problems throughout the semester. Each chapter corresponds to a topic covered in class and is designed to complement your readings and assignments.
+
+---
+
+## How to Use This Book {.unnumbered}
+
+- Use the **sidebar** on the left to navigate between chapters
+- Each chapter includes **lecture notes**, **worked examples**, and **R code** where applicable
+- The **search bar** (top of the sidebar) lets you search across all chapters
+- Chapters build on one another — reviewing previous material before moving forward is strongly encouraged
+
+---
+
+## Course Topics {.unnumbered}
+
+This course is organized around the following major themes:
+
+1. **Measuring the Macroeconomy** — GDP, national income accounts, price indices
+2. **Long-Run Growth** — Capital accumulation, productivity, the Solow model
+3. **Money and Inflation** — The quantity theory, monetary policy, inflation dynamics
+4. **Short-Run Fluctuations** — Business cycles, aggregate demand and supply
+5. **Fiscal and Monetary Policy** — IS-LM, the role of government and central banks
+6. **Open Economy Macroeconomics** — Exchange rates, trade balances, international linkages
+
+---
+
+## A Note on Tools {.unnumbered}
+
+Throughout this course, we will use **R** to explore macroeconomic data, build intuition through simulation, and visualize key concepts. No prior programming experience is required — code is provided and explained step by step.
+
+---
+
+## Practical Advice for Success {.unnumbered}
+
+#### Stay Current {.unnumbered}
+
+- Read the *Wall Street Journal*, *The Economist*, and follow Federal Reserve communications
+- Track economic indicators like GDP releases, CPI reports, and unemployment figures
+- Connect current events to the concepts we study in class
+
+#### Think at the Aggregate Level {.unnumbered}
+
+- Macroeconomics requires shifting from individual decisions to economy-wide outcomes
+- Always ask: *what happens in aggregate?*
+- Be cautious of the **fallacy of composition** — what is true for one household or firm is not always true for the whole economy
+
+#### Connect Concepts {.unnumbered}
+
+- Topics in this course are deeply interrelated
+- Growth, inflation, unemployment, and policy are all linked
+- Make connections across chapters as the semester progresses
+
+---
+
+## Contact {.unnumbered}
+
+Please do not hesitate to reach out with questions about course material, assignments, or anything else.
+
+> *"In the long run, we are all dead — but understanding macroeconomics helps us make better decisions in the short run too."*
+> — Adapted from John Maynard Keynes
