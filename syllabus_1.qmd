@@ -1,4 +1,4 @@
----
+e---
 title: "Syllabus"
 author: "Prof. Barker"
 date: today
@@ -9,12 +9,12 @@ date: today
 | | |
 |---|---|
 | **Course** | Macroeconomics |
-| **Course Number** | ECON 2010-01 |
-| **Semester** | Fall 2026 |
-| **Meeting Time** | MWF 11:00 AM – 11:50 AM |
-| **Location** | Mabee Building, Room 110 |
+| **Course Number** | ECON-XXXX |
+| **Semester** | Fall 2025 |
+| **Meeting Time** | MWF 00:00 AM – 00:00 AM |
+| **Location** | Building, Room XXX |
 | **Office Hours** | By appointment |
-| **Email** | cbarker@harding.edu |
+| **Email** | yourname\@university.edu |
 
 ---
 
@@ -123,3 +123,11 @@ Students requiring academic accommodations should contact the university's Offic
 Macroeconomics is one of the most relevant and dynamic fields in all of economics. The concepts we study — growth, inflation, unemployment, policy — appear in the news every day and affect every person in the economy. My goal is to help you build not just technical knowledge, but the ability to think critically about economic events and policy decisions.
 
 Please don't hesitate to reach out if you have questions, fall behind, or just want to talk through an idea. I'm here to help.
+
+---
+
+::: {style="display: flex; justify-content: space-between; margin-top: 2rem;"}
+[← Back to Preface](index.qmd){.btn .btn-outline-primary}
+
+[Chapter 1 →](chapters/Chapter01.qmd){.btn .btn-outline-primary}
+:::

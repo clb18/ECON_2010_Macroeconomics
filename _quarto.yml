@@ -13,12 +13,14 @@ book:
   search: true
 
   chapters:
-    - index.qmd          # Preface / Welcome page
-    - syllabus.qmd       # Syllabus as its own page
+    - index.qmd
+    - syllabus.qmd
     - part: "Contents"
       chapters:
         - Contents/Chapter01.qmd
-        # add more chapters here as you build them
+        # - Contents/Chapter02.qmd
+        # - Contents/Chapter03.qmd
+        # Add one line per chapter as you create them
 
 format:
   html:

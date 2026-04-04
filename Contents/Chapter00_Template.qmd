@@ -1,0 +1,192 @@
+---
+title: "Chapter X - [Chapter Title]"
+author: "Prof. Barker"
+date: today
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-depth: 3
+    toc-expand: 1
+    number-sections: true
+    number-offset: 0
+    title-block-style: default
+    theme: cosmo
+  pdf:
+    toc: true
+    number-sections: true
+    geometry: margin=1in
+---
+
+# Introduction
+
+**"[Opening quote or provocative statement relevant to the chapter.]"**
+
+[2–3 sentences framing the chapter topic. Why does it matter? Connect it to something students already know or experience.]
+
+**Think about this:** "[A question to engage students and connect the topic to real life.]"
+
+## Chapter Roadmap {.unnumbered}
+
+This chapter covers four major topics:
+
+1. **[Section 1 Title]** — [One-line description]
+2. **[Section 2 Title]** — [One-line description]
+3. **[Section 3 Title]** — [One-line description]
+4. **[Section 4 Title]** — [One-line description]
+
+---
+
+# [Section 1 Title]
+
+[Introductory paragraph for this section. Set up the key idea before diving into subsections.]
+
+## [Subsection 1.1 Title]
+
+[Explanation of concept. Use plain language first, then introduce formal definitions.]
+
+**Key Definition:** [Term] — [Definition in plain language.]
+
+- Bullet point supporting detail
+- Bullet point supporting detail
+- Bullet point supporting detail
+
+## [Subsection 1.2 Title]
+
+[Continue explanation. Use examples, analogies, or visuals where helpful.]
+
+**Example:**
+
+[Walk through a concrete example here.]
+
+```{r}
+#| echo: false
+#| label: chXX-example-1
+
+# [Brief comment explaining what this code does]
+
+# Example R code here
+x <- c(1, 2, 3)
+y <- x * 2
+cat("Result:", y, "\n")
+```
+
+---
+
+# [Section 2 Title]
+
+[Introductory paragraph for this section.]
+
+## [Subsection 2.1 Title]
+
+[Content here.]
+
+**Critical Point:** [Highlight an important concept, common misconception, or key takeaway.]
+
+## [Subsection 2.2 Title]
+
+[Content here. Consider adding a figure or table.]
+
+![Figure Caption](../assets/images/ChXX/your_image.png){width="75%"}
+
+---
+
+# [Section 3 Title]
+
+[Introductory paragraph for this section.]
+
+## [Subsection 3.1 Title]
+
+[Content here.]
+
+## [Subsection 3.2 Title]
+
+[Content here.]
+
+#### Practice Problem {.unnumbered}
+
+[State a practice problem here that applies the concepts just covered.]
+
+```{r}
+#| echo: false
+#| label: practice-chXX
+
+# Solution to practice problem
+# Students should attempt before reviewing
+
+# [Your R code here]
+```
+
+---
+
+# [Section 4 Title]
+
+[Introductory paragraph for this section.]
+
+## [Subsection 4.1 Title]
+
+[Content here.]
+
+## [Subsection 4.2 Title]
+
+[Content here.]
+
+---
+
+# Conclusion and Synthesis
+
+## Connecting the Dots
+
+Let's bring together the major themes from this chapter:
+
+#### [Section 1 Theme] {.unnumbered}
+
+- Key takeaway 1
+- Key takeaway 2
+
+#### [Section 2 Theme] {.unnumbered}
+
+- Key takeaway 1
+- Key takeaway 2
+
+#### [Section 3 Theme] {.unnumbered}
+
+- Key takeaway 1
+- Key takeaway 2
+
+#### [Section 4 Theme] {.unnumbered}
+
+- Key takeaway 1
+- Key takeaway 2
+
+## Why This Matters
+
+[2–3 sentences connecting the chapter content to careers, citizenship, or personal finance — as relevant.]
+
+## Practical Advice for This Chapter
+
+#### Stay Current {.unnumbered}
+
+- [Suggest a news source, data release, or real-world event related to this chapter's topic]
+
+#### Think Critically {.unnumbered}
+
+- [Prompt students to question an assumption or consider an alternative view]
+
+---
+
+## Preview of Next Chapter
+
+**What's next — Chapter X+1: [Next Chapter Title]**
+
+- [Topic 1 coming up]
+- [Topic 2 coming up]
+- [Topic 3 coming up]
+
+---
+
+## Final Thoughts
+
+[2–3 closing sentences. Reinforce the big idea of the chapter and motivate students to engage with the material.]
+
+Please review Chapter X, complete any assigned problems, and don't hesitate to email with questions.
