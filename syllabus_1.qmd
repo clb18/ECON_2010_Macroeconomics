@@ -1,4 +1,4 @@
-e---
+---
 title: "Syllabus"
 author: "Prof. Barker"
 date: today

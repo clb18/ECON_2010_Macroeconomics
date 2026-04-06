@@ -10,6 +10,23 @@ Welcome to **Macroeconomics**. This course examines how economies function at th
 
 This online textbook serves as your primary reference for lecture notes, examples, and worked problems throughout the semester. Each chapter corresponds to a topic covered in class and is designed to complement your readings and assignments.
 
+
+---
+
+## Topics that should be covered: {.unnumbered}
+
+- How did we get here?
+- Roving Bandit vs. Stationary Bandit - Mancur Olson
+- Institutions
+- Sunk costs/Opportunity costs
+- Seen and unseen
+- Adam Smith - specialization and benefits of trade
+- Positive vs. Normative economics
+- The Invisible Hand (or hook, or tattoo) - Pirates and Prison gangs
+
+
+
+
 ---
 
 ## How to Use This Book {.unnumbered}
